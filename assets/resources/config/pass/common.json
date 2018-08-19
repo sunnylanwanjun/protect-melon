@@ -1,0 +1,42 @@
+{
+    "gridInfo":{
+        "staggerY":67,
+        "staggerX":0,
+        "gridW":114,
+        "gridH":134
+    },
+    "matShowOrder":[
+        "empty",
+        "water_1",
+        "floor_1",
+        "floor_2",
+        "floor_3",
+        "door_1",
+        "door_2",
+        "door_3",
+        "role_1",
+        "target_1",
+        "role_2",
+        "block_1",
+        "capper_1"
+    ],
+
+    "matTypeArr":[
+        "empty",
+        "floor_1",
+        "floor_2",
+        "floor_3",
+        "door_1",
+        "door_2",
+        "door_3",
+        "block_1",
+        "role_1",
+        "target_1",
+        "capper_1",
+        "role_2",
+        "water_1"
+    ],
+    "matTypeToName":[],
+    "matIcon":[],
+    "matNameToType":{}
+}

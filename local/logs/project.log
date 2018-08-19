@@ -1,0 +1,55 @@
+2018-07-29T10:06:28.132Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-29T10:06:28.134Z - normal: checking language setting...
+2018-07-29T10:06:28.135Z - normal: Language: en
+2018-07-29T10:06:29.003Z - success: protocol editor-framework registered
+2018-07-29T10:06:29.003Z - success: protocol app registered
+2018-07-29T10:06:29.004Z - success: protocol theme registered
+2018-07-29T10:06:29.004Z - success: protocol packages registered
+2018-07-29T10:06:29.004Z - success: protocol unpack registerred
+2018-07-29T10:06:29.004Z - success: protocol disable-commonjs registerred
+2018-07-29T10:06:29.216Z - normal: connected!
+2018-07-29T10:06:29.218Z - normal: Check project /Users/mac/Downloads/bjddzFileServer/minigame/minigame_code/project2/client
+2018-07-29T10:06:29.229Z - normal: Initializing Cocos2d
+2018-07-29T10:06:29.463Z - normal: Initializing Asset Database
+2018-07-29T10:06:29.502Z - success: protocol uuid registerred
+2018-07-29T10:06:29.502Z - success: protocol db registerred
+2018-07-29T10:06:29.502Z - success: protocol thumbnail registerred
+2018-07-29T10:06:29.502Z - normal: Loading editor/builtin packages
+2018-07-29T10:06:29.521Z - success: anysdk loaded
+2018-07-29T10:06:29.658Z - success: assets loaded
+2018-07-29T10:06:29.663Z - success: builder loaded
+2018-07-29T10:06:29.664Z - success: cocos-analytics loaded
+2018-07-29T10:06:29.671Z - success: console loaded
+2018-07-29T10:06:29.704Z - success: fb-instant-games loaded
+2018-07-29T10:06:29.709Z - success: hierarchy loaded
+2018-07-29T10:06:29.715Z - success: inspector loaded
+2018-07-29T10:06:29.717Z - success: keystore loaded
+2018-07-29T10:06:29.722Z - success: node-library loaded
+2018-07-29T10:06:29.725Z - success: package-asset loaded
+2018-07-29T10:06:29.727Z - success: preferences loaded
+2018-07-29T10:06:29.730Z - success: project-exporter loaded
+2018-07-29T10:06:29.748Z - success: project-importer loaded
+2018-07-29T10:06:29.752Z - success: project-settings loaded
+2018-07-29T10:06:29.759Z - success: ui-kit loaded
+2018-07-29T10:06:29.765Z - success: ui-grid loaded
+2018-07-29T10:06:29.769Z - success: scene loaded
+2018-07-29T10:06:29.771Z - success: sprite-editor loaded
+2018-07-29T10:06:29.776Z - success: store loaded
+2018-07-29T10:06:29.784Z - success: timeline loaded
+2018-07-29T10:06:29.784Z - normal: Loading builtin packages
+2018-07-29T10:06:29.788Z - success: asset-db-debugger loaded
+2018-07-29T10:06:29.791Z - success: color-picker loaded
+2018-07-29T10:06:29.795Z - success: package-manager loaded
+2018-07-29T10:06:29.797Z - success: qqplay-adapter loaded
+2018-07-29T10:06:29.807Z - success: sdkbox loaded
+2018-07-29T10:06:29.813Z - success: tester loaded
+2018-07-29T10:06:29.818Z - success: ui-kit-preview-extra loaded
+2018-07-29T10:06:29.822Z - success: ui-kit-preview loaded
+2018-07-29T10:06:29.826Z - success: ui-tree loaded
+2018-07-29T10:06:29.828Z - success: weapp-adapter loaded
+2018-07-29T10:06:30.893Z - normal: Initializing project /Users/mac/Downloads/bjddzFileServer/minigame/minigame_code/project2/client
+2018-07-29T10:06:30.897Z - normal: Loading packages
+2018-07-29T10:06:30.904Z - normal: Watching packages
+2018-07-29T10:06:31.022Z - normal: Run Application
+2018-07-29T10:06:32.295Z - success: preview server running at http://localhost:7457
+2018-07-29T10:06:36.978Z - normal: 1.9.2

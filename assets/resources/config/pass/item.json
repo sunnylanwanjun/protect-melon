@@ -1,0 +1,10 @@
+{
+    "data":{
+        "block":{"type":"block","times":1},
+        "destroy":{"type":"destroy","times":2},
+        "freeze":{"type":"freeze","times":1,"effectBout":1},
+        "capper":{"type":"capper","times":1},
+        "pocket":{"type":"pocket","times":1},
+        "wall":{"type":"wall","times":1}
+    }
+}

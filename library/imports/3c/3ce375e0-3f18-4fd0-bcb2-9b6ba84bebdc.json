@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "icon-melon": {
+      "__uuid__": "95a0888e-c3c4-497b-a304-dcc8eb7b2315"
+    },
+    "testui-dir0": {
+      "__uuid__": "9d9c60bb-b6a9-4e99-a2d6-c29c3cd5e6e7"
+    },
+    "testui-dir1": {
+      "__uuid__": "f3349d56-5e8e-4460-87e3-c85fe11a7419"
+    },
+    "testui-dir2": {
+      "__uuid__": "8d518ab5-0c17-4733-976e-c09fe6780db0"
+    },
+    "testui-dir3": {
+      "__uuid__": "5f068939-ec67-4159-a194-4987887fbc88"
+    },
+    "testui-dir4": {
+      "__uuid__": "234a8533-6e88-4aaf-95ca-36b3a72a871a"
+    },
+    "testui-dir5": {
+      "__uuid__": "1bb4edfb-b6a3-4e08-a92d-6e17a19dea77"
+    },
+    "testui-jump": {
+      "__uuid__": "085332b5-6fcb-4552-b712-b2efecbc94b7"
+    },
+    "testui-self": {
+      "__uuid__": "fe572d42-529f-4dde-9cde-8060d16ee97d"
+    },
+    "ui-begin": {
+      "__uuid__": "1ead8b7c-9d53-4da1-ba81-3aa8ce6c4970"
+    },
+    "ui-block_1": {
+      "__uuid__": "2ffcf067-3749-4100-ad1a-60b09ed1d834"
+    },
+    "ui-capper_1": {
+      "__uuid__": "fec87b47-59f5-404f-a61e-fe727227b4fc"
+    },
+    "ui-door_1": {
+      "__uuid__": "6bcec0c0-924d-4903-9d31-b73db3d5021b"
+    },
+    "ui-door_2": {
+      "__uuid__": "da52239f-0306-4601-9bb5-de4c96a1a928"
+    },
+    "ui-door_3": {
+      "__uuid__": "1c28c227-4231-46ba-9488-785f64a73883"
+    },
+    "ui-empty": {
+      "__uuid__": "0d4ffddd-47cc-4965-8dfd-4a7dc340f943"
+    },
+    "ui-floor_1": {
+      "__uuid__": "4b72d3c2-c86b-4a8e-a3eb-6c5494fffc08"
+    },
+    "ui-floor_2": {
+      "__uuid__": "0ef9f854-9900-4f4b-8ad6-2f6f86c21d41"
+    },
+    "ui-floor_3": {
+      "__uuid__": "14d95c83-02f7-40f8-900b-d3362e68f892"
+    },
+    "ui-frame-bg": {
+      "__uuid__": "24c81ba9-15b9-45b9-b701-4a2d3aa5da24"
+    },
+    "ui-freeze_1": {
+      "__uuid__": "27f8dddc-afc7-4827-be64-c00ffc90ef53"
+    },
+    "ui-loading": {
+      "__uuid__": "c5c078bf-891d-4faf-82ba-d30a2252262c"
+    },
+    "ui-role_1": {
+      "__uuid__": "2c02d250-deae-46e3-8ff0-197267269b4a"
+    },
+    "ui-role_2": {
+      "__uuid__": "7d30687c-388d-48ad-8eb6-4c7c4ccb2db3"
+    },
+    "ui-select-frame": {
+      "__uuid__": "1378b016-6cd9-41e7-9851-8b8b626d92ec"
+    },
+    "ui-target_1": {
+      "__uuid__": "623586da-f46e-4b68-b2dc-e42156a4cfbc"
+    },
+    "ui-target_2": {
+      "__uuid__": "bd9b5077-aba7-4f3f-801c-2cf1a591016d"
+    },
+    "ui-water_1": {
+      "__uuid__": "e81b8ab3-d4f2-41d6-9a8c-d2f53aa3a6af"
+    }
+  }
+}
